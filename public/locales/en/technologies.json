@@ -1,0 +1,51 @@
+{
+    "title": "Technologies",
+    "desc": "I work with different tools, and programming languages to reach a single goal, an effective product, some of the tools I work with are:",
+    "tools": {
+        "front": {
+            "title": "Front-End",
+            "desc": "The best performed, speed and functionality."
+        },
+        "back": {
+            "title": "Back-End",
+            "desc": "Fast real-time data management, administration and control."
+        },
+        "mobile": {
+            "title": "Mobile",
+            "desc": "Fast, cross-platform, or dedicated apps for Android, iOS, or Windows."
+        },
+        "design": {
+            "title": "UI/UX",
+            "desc": "Trend designs, and ready to turn them into real projects."
+        }
+    },
+    "personal": {
+        "title": "Personal Achievements",
+        "projects": "Project Collaboration",
+        "mobile": "Mobile Apps",
+        "web": "Web Apps"
+    },
+    "creative": {
+        "title": "Creative Process",
+        "first": {
+            "title": "First approach",
+            "desc": "Knowing the idea, and the story behind it, until together you reach the moon 🤝"
+        },
+        "second": {
+            "title": "Second approach",
+            "desc": "Continue to know beyond the idea, and create possible and real scenarios 🧐"
+        },
+        "third": {
+            "title": "Third approach",
+            "desc": "Actually getting the idea done in a ridiculously fast time, basically because I'm not an agency, I'm a dedicated developer and I love what I do 🚀"
+        }
+    },
+    "contact": {
+        "title": "Contact Me!",
+        "input": "Email",
+        "errorInput": "Invalid email",
+        "errorService": "Ooops! There is an error, try later",
+        "success": "Ready, soon we will be in contact 🥳",
+        "button": "Send"
+    }
+}

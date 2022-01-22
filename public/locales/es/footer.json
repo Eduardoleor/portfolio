@@ -1,0 +1,30 @@
+{
+    "apps": {
+        "title": "Apps",
+        "mobile": "Móvil Apps",
+        "web": "Web Apps",
+        "desktop": "Apps de escritorio"
+    },
+    "collaborations": {
+        "title": "Colaboraciones",
+        "web": "Desarrollo Web",
+        "mobile": "Desarrollo Móvil",
+        "support": "Soporte a proyectos"
+    },
+    "about": {
+        "title": "Sobre mí",
+        "lastwork": "Ultimo Trabajo",
+        "lastproject": "Ultimo Proyecto",
+        "projects": "Proyectos en Progreso",
+        "location": "Ubicación"
+    },
+    "developers": {
+        "title": "Desarrolladores",
+        "referrals": "Referencias",
+        "forum": "Foro"
+    },
+    "copyright": {
+        "copy": "Derechos de autor",
+        "from": "Desde"
+    }
+}

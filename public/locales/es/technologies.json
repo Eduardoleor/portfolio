@@ -1,0 +1,51 @@
+{
+    "title": "Tecnologías",
+    "desc": "Trabajo con diferentes herramientas, y lenguajes de programación para alcanzar un único objetivo, un producto efectivo, algunas de las herramientas con las que trabajo son:",
+    "tools": {
+        "front": {
+            "title": "Front-End",
+            "desc": "El mejor rendimiento, velocidad y funcionalidad."
+        },
+        "back": {
+            "title": "Back-End",
+            "desc": "Gestión, administración y control rápidos de datos en tiempo real."
+        },
+        "mobile": {
+            "title": "Móvil",
+            "desc": "Aplicaciones rápidas, multiplataforma o dedicadas para Android, iOS o Windows."
+        },
+        "design": {
+            "title": "UI/UX",
+            "desc": "Diseños de tendencias, y listos para convertirlos en proyectos reales."
+        }
+    },
+    "personal": {
+        "title": "Logros personales",
+        "projects": "Colaboración en proyectos",
+        "mobile": "Apps Móviles",
+        "web": "Apps Web"
+    },
+    "creative": {
+        "title": "Proceso Creativo",
+        "first": {
+            "title": "Primer acercamiento",
+            "desc": "Conociendo la idea, y la historia detrás de ella, hasta que juntos lleguemos a la luna 🤝"
+        },
+        "second": {
+            "title": "Segundo acercamiento",
+            "desc": "Seguir conociendo más allá de la idea, y crear escenarios posibles y reales 🧐"
+        },
+        "third": {
+            "title": "Tercer acercamiento",
+            "desc": "En realidad, hacer la idea en un tiempo ridículamente rápido, básicamente porque no soy una agencia, soy un desarrollador dedicado y me encanta lo que hago 🚀"
+        }
+    },
+    "contact": {
+        "title": "Contáctame!",
+        "input": "Correo electrónico",
+        "errorInput": "El correo es inválido",
+        "errorService": "Ooops! Ocurrió un error, intenta más tarde",
+        "success": "Listo, estaremos en contacto pronto 🥳",
+        "button": "Enviar"
+    }
+}

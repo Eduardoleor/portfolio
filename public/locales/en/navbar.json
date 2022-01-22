@@ -1,0 +1,10 @@
+{
+    "menuLanguage": {
+        "options": {
+            "spanish": "Spanish",
+            "english": "English",
+            "alien": "Alien"
+        }
+    },
+    "development": "Development"
+}

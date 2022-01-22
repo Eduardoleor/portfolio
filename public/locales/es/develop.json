@@ -1,0 +1,30 @@
+{
+    "languages": {
+        "title": "Lenguajes",
+        "desc": "Los lenguajes con los que trabajo son muy versátiles y fáciles de mantener y transportar de un entorno a otro, actualmente estoy en tendencia con la pila MERN, algunos lenguajes con los que trabajo son:"
+    },
+    "tools": {
+        "title": "Herramientas",
+        "desc": "Regularmente las herramientas con las que trabajo cambian muy a menudo (casi a diario) sin embargo una de las más utilizadas son:"
+    },
+    "front": {
+        "title": "Front-End",
+        "desc": "Para trabajar en la parte front-end hay muchas herramientas, lenguajes y formularios, sin embargo, en mi propia elección, estas herramientas pertenecen a mi pila de trabajo día a día. Además, día a día actualizo en busca de mejora y calidad en mis productos. "
+    },
+    "back": {
+        "title": "Back-End",
+        "desc": "Las herramientas con las que trabajo están enfocadas en un entorno ágil, que te permite llevar de un lugar a otro cualquier entorno, código, aplicación, algunas de esas herramientas son:"
+    },
+    "mobile": {
+        "title": "Móvil ❤️",
+        "desc": "A lo largo de mi carrera profesional y no tan profesional... Lo que más me gusta es la idea de salir y tener todo en la mano, por eso el entorno móvil es mi favorito, aquí te presento algunas de las mejores herramientas:"
+    },
+    "design": {
+        "title": "Diseño",
+        "desc": "Parte de conocer el desarrollo de un producto y crear una mejora continua es el diseño, por lo que tener un diseño previo te permite conocer el alcance, algunas de las herramientas de diseño con las que trabajo son:"
+    },
+    "disc": {
+        "disc": "Aviso ⚠️",
+        "desc": "Todo lo que se muestra aquí es por qué alguna vez lo trabajo, o estoy trabajando en ello, no soy un experto en todas las herramientas, solo muestro mi experiencia que llevo y que pueden saber un poco más solo por decir front-end, desarrollador móvil, etc... 🤖"
+    }
+}

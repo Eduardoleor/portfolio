@@ -1,0 +1,30 @@
+{
+    "languages": {
+        "title": "Languages",
+        "desc": "The languages I work with are very versatile and easy to maintain and transport from one environment to another, I am currently in trend with the MERN stack, some languages I work with are:"
+    },
+    "tools": {
+        "title": "Tools",
+        "desc": "Regularly the tools with which I work change very often (almost daily) however one of the most used are:"
+    },
+    "front": {
+        "title": "Front-End",
+        "desc": "To work on the front-end part there are many tools, languages and forms, however in my own choice these tools belong to my work stack day by day. In addition, day by day I update in search of improvement and quality in my products. "
+    },
+    "back": {
+        "title": "Back-End",
+        "desc": "The tools I work with are focused on an agile environment, which allows you to take from one place to another any environment, code, application, some of those tools are:"
+    },
+    "mobile": {
+        "title": "Mobile ❤️",
+        "desc": "Throughout my professional and not so professional career... What I like the most is the idea of going out and having everything in my hand, so the mobile environment is my favorite, here I present some of the best tools:"
+    },
+    "design": {
+        "title": "Design",
+        "desc": "Part of knowing the development of a product and creating a continuous improvement is the design, so having a previous design allows you to know the scope, some of the design tools with which I work are:"
+    },
+    "disc": {
+        "title": "Disclaimer ⚠️",
+        "desc": "All that is shown here is why I ever work it, or I am working on it, I am not an expert in all the tools, I just show my experience that I carry and that they can know a little more just to say front-end, mobile developer, etc ... 🤖"
+    }
+}

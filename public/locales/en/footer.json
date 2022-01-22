@@ -1,0 +1,30 @@
+{
+    "apps": {
+        "title": "Apps",
+        "mobile": "Mobile Apps",
+        "web": "Web Apps",
+        "desktop": "Desktop Apps"
+    },
+    "collaborations": {
+        "title": "Collaborations",
+        "web": "Web Development",
+        "mobile": "Mobile Development",
+        "support": "Support to projects"
+    },
+    "about": {
+        "title": "About",
+        "lastwork": "Last Work",
+        "lastproject": "Last Project",
+        "projects": "Projects in progress",
+        "location": "Location"
+    },
+    "developers": {
+        "title": "Developers",
+        "referrals": "Referrals",
+        "forum": "Forum"
+    },
+    "copyright": {
+        "copy": "Copyright",
+        "from": "From"
+    }
+}
